@@ -1,0 +1,33 @@
+2021-10-14 14:10:05,182 INFO 67707 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-14 14:10:05,182 INFO 67707 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-14 14:10:05,182 INFO 67707 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-14 14:10:05,425 INFO 67706 [Timer] /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 51594582ms at 2021-10-15 04:30:00.007
+2021-10-14 14:10:05,426 INFO 67706 [Timer] /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 35394575ms at 2021-10-15 00:00:00.001
+2021-10-14 14:10:05,427 INFO 67706 [Timer] /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 35395574ms at 2021-10-15 00:00:01.001
+2021-10-14 14:13:11,157 INFO 67823 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-14 14:13:11,157 INFO 67823 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-14 14:13:11,157 INFO 67823 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-14 14:13:26,194 INFO 67889 [Timer] /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 51393809ms at 2021-10-15 04:30:00.003
+2021-10-14 14:13:26,195 INFO 67889 [Timer] /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 35193806ms at 2021-10-15 00:00:00.001
+2021-10-14 14:13:26,195 INFO 67889 [Timer] /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 35194805ms at 2021-10-15 00:00:01.000
+2021-10-14 14:13:26,057 INFO 67890 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-14 14:13:26,057 INFO 67890 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-14 14:13:26,057 INFO 67890 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-14 14:18:44,919 INFO 68418 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-14 14:18:44,919 INFO 68418 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-14 14:18:44,919 INFO 68418 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-14 14:18:53,364 INFO 68433 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-14 14:18:53,364 INFO 68433 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-14 14:18:53,364 INFO 68433 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-14 14:18:55,392 INFO 68434 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-14 14:18:55,392 INFO 68434 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-14 14:18:55,392 INFO 68434 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-14 14:19:12,207 INFO 68449 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-14 14:19:12,207 INFO 68449 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-14 14:19:12,207 INFO 68449 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-14 14:19:14,641 INFO 68456 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-14 14:19:14,641 INFO 68456 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-14 14:19:14,641 INFO 68456 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-10-14 14:26:03,424 INFO 68555 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-10-14 14:26:03,424 INFO 68555 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-10-14 14:26:03,424 INFO 68555 [egg-schedule]: register schedule /Users/fuqiang1/study/node-frame/egg-basic/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
