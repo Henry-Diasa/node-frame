@@ -29,6 +29,10 @@ module.exports = (app) => {
       type: String,
       default: null
     },
+    subscribersCount: {
+      type: Number,
+      default: 0
+    },
     createdAt: {
       type: Date,
       default: Date.now
