@@ -1,31 +1,30 @@
+module.exports = app => {
+  const mongoose = app.mongoose
+  const Schema = mongoose.Schema
 
-module.exports = (app) => {
-  const mongoose = app.mongoose;
-  const Schema = mongoose.Schema;
-
-  const UserSchema = new Schema({
-    username: {
+  const userSchema = new Schema({
+    username: { // 用户名
       type: String,
       required: true
     },
-    email: {
+    email: { // 邮箱
       type: String,
       required: true
     },
-    password: {
+    password: { // 密码
       type: String,
-      select: false,
+      select: false, // 查询中不包含该字段
       required: true
     },
-    avatar: {
-      type: String,
-      required: true
-    },
-    cover: {
+    avatar: { // 头像
       type: String,
       default: null
     },
-    channelDescription: {
+    cover: {
+      type: String, // 封面
+      default: null
+    },
+    channelDescription: { // 频道介绍
       type: String,
       default: null
     },
@@ -33,15 +32,15 @@ module.exports = (app) => {
       type: Number,
       default: 0
     },
-    createdAt: {
+    createdAt: { // 创建时间
       type: Date,
       default: Date.now
     },
-    updatedAt: {
+    updatedAt: { // 更新时间
       type: Date,
       default: Date.now
     }
   })
 
-  return mongoose.model("User", UserSchema);
-};
+  return mongoose.model('User', userSchema)
+}

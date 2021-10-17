@@ -1,17 +1,9 @@
-'use strict';
-
-const Controller = require('egg').Controller;
+const Controller = require('egg').Controller
 
 class HomeController extends Controller {
-  async index() {
-    const { ctx } = this;
-    const User = this.app.model.User
-    await new User({
-      userName: '123',
-      password: '123'
-    }).save()
-    ctx.body = 'hi, egg';
+  async index () {
+    this.ctx.body = '你好, egg'
   }
 }
 
-module.exports = HomeController;
+module.exports = HomeController
